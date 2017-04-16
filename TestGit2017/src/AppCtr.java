@@ -6,6 +6,14 @@ public class AppCtr {
 		Utils.Messages();
 		//chahd
 		Utils.MessagesChahd();
+		
+		
+		//
+		System.out.println("Somme ");
+		AddClassHsn.SommeInt(5, 15);
+		//Product int
+		System.out.println("Product ");
+		AddClassHsn.ProductInt(5, 15);
 	}
 
 }
